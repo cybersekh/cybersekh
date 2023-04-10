@@ -3,7 +3,7 @@
 # Carolina Lima, mas pode me chamar de Carol! 😊
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A7BF7&width=350&lines=Desenvolvedora+Web+Full+Stack;Apaixonada+por+Front+End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A7BF7&width=350&lines=Desenvolvedora+Web+Full+Stack;Apaixonada+por+Front+End+<3)](https://git.io/typing-svg)
   
  
 ![Alt Text](https://media.tenor.com/TuYN6dmAclUAAAAC/cyberpunk.gif 'Gif Cyberpunk')
