@@ -20,7 +20,7 @@ Eu nasci em 1994 e morei a maior parte da minha vida no Rio de Janeiro. Sempre f
   
   
 ### 🛸 Habilidades & Tecnologias
-Eu já aprendi HTML, CSS, JavaScript, Jest, ReactJs, RTL, Stryker, Docker, MySQL, NodeJs, Sequelize, TypeScript, MongoDB, Mongoose.
+Eu já aprendi HTML, CSS, JavaScript, Jest, ReactJs, RTL, Stryker, Docker, MySQL, NodeJs, Sequelize, TypeScript, MongoDB, Mongoose, Programação Orientada à Objetos.
   
 No momento estou aprendendo _Python_.
   
