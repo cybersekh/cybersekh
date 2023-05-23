@@ -11,7 +11,7 @@
 <div align="left">
   
 ### 🌌 Olá, mundo.
-Eu nasci em 1994 e morei a maior parte da minha vida no Rio de Janeiro. Sempre fui uma adolescente curiosa por tecnologia, mas foi na vida adulta que a curiosidade se transformou em paixão. Escolhi a Trybe como formação para a área de desenvolvimento e nos últimos dois anos tenho estudado e me aperfeiçoado mais aprendendo linguagens e ferramentas novas.
+Eu nasci em 1994 e morei a maior parte da minha vida no Rio de Janeiro. Sempre fui uma adolescente curiosa por tecnologia, mas foi na vida adulta que a curiosidade se transformou em paixão. Escolhi a Trybe como formação para a área de desenvolvimento e nos últimos dois anos tenho estudado e me aperfeiçoado mais aprendendo linguagens e ferramentas novas. Atualmente trabalho como Analista de TI Jr na empresa PagoNxt | Getnet. 💙💚
  
   
 * Meus hobbies são jardinagem, crochê e enviar cartas.
