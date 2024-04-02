@@ -11,7 +11,7 @@
 <div align="left">
   
 ### 🌌 Hello, world.
-I was born in 1994 and have spent most of my life in Rio de Janeiro. I've always been a curious teenager about technology, but it was in adulthood that curiosity turned into passion. I chose Trybe as my training ground for development, and over the past two years, I've been studying and honing my skills, learning new languages and tools. Currently, I work as a IT Analyst at [PagoNxt | Getnet](https://www.pagonxt.com/home). 💙💚
+I was born in 1994 and have spent most of my life in Rio de Janeiro. I've always been a curious teenager about technology, but it was in adulthood that curiosity turned into passion. I chose Trybe as my training ground for development, and over the past two years, I've been studying and honing my skills, learning new languages and tools. My work experience started with [PagoNxt | Getnet](https://www.pagonxt.com/home) and I'm currently at Customer Support on [Rise](https://www.riseworks.io/). 
  
   
 * My hobbies include gardening, crocheting, and sending letters. 
