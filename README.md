@@ -1,31 +1,31 @@
 <div align="center">
 
-# Carolina Lima, mas pode me chamar de Carol! 😊
+# Carolina Lima, but call me Carol! 😊
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A7BF7&width=350&lines=Desenvolvedora+Web+Full+Stack;Apaixonada+por+Front+End+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A7BF7&width=350&lines=Full+Stack+Web+Developer;In+love+with+Front+End+<3)](https://git.io/typing-svg)
   
  
 ![Alt Text](https://media.tenor.com/TuYN6dmAclUAAAAC/cyberpunk.gif 'Gif Cyberpunk')
 
 <div align="left">
   
-### 🌌 Olá, mundo.
-Eu nasci em 1994 e morei a maior parte da minha vida no Rio de Janeiro. Sempre fui uma adolescente curiosa por tecnologia, mas foi na vida adulta que a curiosidade se transformou em paixão. Escolhi a Trybe como formação para a área de desenvolvimento e nos últimos dois anos tenho estudado e me aperfeiçoado mais aprendendo linguagens e ferramentas novas. Atualmente trabalho como Analista de TI Jr na empresa PagoNxt | Getnet. 💙💚
+### 🌌 Hello, world.
+I was born in 1994 and have spent most of my life in Rio de Janeiro. I've always been a curious teenager about technology, but it was in adulthood that curiosity turned into passion. I chose Trybe as my training ground for development, and over the past two years, I've been studying and honing my skills, learning new languages and tools. Currently, I work as a IT Analyst at [PagoNxt | Getnet](https://www.pagonxt.com/home). 💙💚
  
   
-* Meus hobbies são jardinagem, crochê e enviar cartas.
-* Posso falar sobre animes por horas.
-* Meu jogo favorito é Detroit Become Human.
+* My hobbies include gardening, crocheting, and sending letters. 
+* I can talk about anime for hours. 
+* My favorite game is Detroit Become Human.
   
   
-### 🛸 Habilidades & Tecnologias
-Eu já aprendi HTML, CSS, JavaScript, Jest, ReactJs, RTL, Stryker, Docker, MySQL, NodeJs, Sequelize, TypeScript, MongoDB, Mongoose, Programação Orientada à Objetos.
+### 🛸Skills & Technologies
+I've already learned HTML, CSS, JavaScript, Jest, ReactJs, RTL, Stryker, Docker, MySQL, NodeJs, Sequelize, TypeScript, MongoDB, Mongoose, Object-Oriented Programming, Python & Pandas.
   
-No momento estou aprendendo _Python_.
+Currently, I'm learning _VueJS_ & _Azure API Management_.
   
-Tenho interesse em **VueJs, TailWind e Material UI**!
+I'm interested in **TailWind e Material UI**!
   
-### ✨ Contato
+### ✨ Contact
   
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinalimadev/)
